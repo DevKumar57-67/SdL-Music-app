@@ -1,3 +1,6 @@
+//Music App in C++
+
+
 #include <stdio.h>
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_mixer.h>
